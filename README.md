@@ -1,7 +1,7 @@
 <div align="center">
    <h2 style="font-size:30px">Hi 👋, I'm Issa Mwanga</h2>
    <h3 align="center">Software developer</h3>
-  <p> My passion for coding and interest in React tech and Golang as backend within the codes have driven my career thus far.</br>I believe in the power of mobile applications and Web technology to change the way people interact with technology, and I'm excited to be a part of that change. </br> </br>
+  <p> My passion for coding and interest in React tech (especially react-vite and nextjs)  ,Golang , expressjs , nestjs as backend and  mobile  I`m interest with Flutter framework  within the codes have driven my career thus far.</br>I believe in the power of mobile applications and Web technology to change the way people interact with technology, and I'm excited to be a part of that change. </br> </br>
     Constantly seeking out new challenges and opportunities to grow my skills, and I'm always eager to learn from others in the community.
   </p>
    <a href="mailto: issamwanga02@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-036431 ?&style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/ReactNative-00acee?style=for-the-badge&logo=react&logoColor=white" alt="reactnative" />
   <img src="https://img.shields.io/badge/Golang-00acee?style=for-the-badge&logo=golang&logoColor=red" alt="Golang" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  
 
 </p>
 <br/>
