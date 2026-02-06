@@ -1,8 +1,7 @@
 <div align="center">
    <h2 style="font-size:30px">Hi 👋, I'm Issa Mwanga</h2>
    <h3 align="center">Software developer</h3>
-  <p> My passion for coding and interest in React tech (especially react-vite and nextjs)  ,Golang , expressjs , nestjs as backend and  mobile  I`m interest with Flutter framework  within the codes have driven my career thus far.</br>I believe in the power of mobile applications and Web technology to change the way people interact with technology, and I'm excited to be a part of that change. </br> </br>
-    Constantly seeking out new challenges and opportunities to grow my skills, and I'm always eager to learn from others in the community.
+  <p>My passion for coding and modern frameworks like React, Vite, and Next.js, along with back-end expertise in Golang, Express, and NestJS, has driven my career forward. I am also deeply interested in mobile development using the Flutter framework to build seamless experiences. I believe that innovative web and mobile technologies can truly transform how people interact with the world, and I am excited to contribute to that change. I constantly seek new challenges to grow my skills and am always eager to learn from and collaborate with the developer community
   </p>
    <a href="mailto: issamwanga02@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-036431 ?&style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/Issa Mwanga" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
